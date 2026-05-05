@@ -1,4 +1,4 @@
-# ユニット・オブ・ワーク定義 — TRAINING LOCK
+# ユニット・オブ・ワーク定義 — Peak Condition, Zero Life Skills
 
 ## 分解方針
 
