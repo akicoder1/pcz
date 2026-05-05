@@ -1,4 +1,4 @@
-# アプリケーション設計 — TRAINING LOCK
+# アプリケーション設計 — Peak Condition, Zero Life Skills
 
 ## 設計サマリー
 
