@@ -1,4 +1,4 @@
-# ペルソナ定義 — TRAINING LOCK
+# ペルソナ定義 — Peak Condition, Zero Life Skills
 
 ## ペルソナ 1: 田中 剛（たなか つよし）
 
