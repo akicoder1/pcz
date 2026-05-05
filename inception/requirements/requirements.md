@@ -1,4 +1,4 @@
-# 要件定義書 — TRAINING LOCK
+# 要件定義書 — Peak Condition, Zero Life Skills
 
 ## インテント分析サマリー
 
