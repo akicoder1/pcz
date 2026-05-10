@@ -88,7 +88,7 @@
 ## モノレポ ディレクトリ構成
 
 ```
-training-lock/                    # リポジトリルート
+pcz/                    # リポジトリルート
 ├── frontend/                     # Unit 1: Next.js Web UI
 │   ├── src/
 │   │   ├── app/                  # Next.js App Router
